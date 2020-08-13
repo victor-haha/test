@@ -13,5 +13,12 @@ public class FirstClass {
         System.out.println("sdf");
         System.out.println("sdf");
         System.out.println("sdf");
+        System.out.println(new FirstClass().test1());
+    }
+
+    public int test1(){
+        int i = 0;
+        int a = 10;
+        return i+a;
     }
 }
