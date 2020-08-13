@@ -11,8 +11,6 @@ public class FirstClass {
         System.out.println("sdf");
         System.out.println("sdf");
         System.out.println("sdf");
-        System.out.println("sdf");
-        System.out.println("sdf");
         System.out.println(new FirstClass().test1());
     }
 
